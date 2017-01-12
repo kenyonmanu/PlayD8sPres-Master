@@ -83,7 +83,7 @@ export default class Presentation extends React.Component {
               The Solution:
             </Heading>
             <BlockQuote>
-              <Quote>A Place Where Games Can Go To Meet & Match With Other Gamers.</Quote>
+              <Quote>A Place Where Gamers Can Go To Meet & Match With Other Games.</Quote>
             </BlockQuote>
           </Slide>
           <Slide transition={["slide"]} bgImage={images.mapview}>
